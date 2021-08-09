@@ -4,10 +4,16 @@
 
 `npm publish`
 
-## Bump to next major alfa
+## Bump to next major alpha
 
 `npm version premajor --preid alpha`
 
-## Publish with alfa/beta tag
+## Publish with alpha/beta tag
 
-`npm publish --tag alfa`
+`npm publish --tag alpha`
+
+## View published version
+
+Run this command from the published module folder
+
+`npm info`
