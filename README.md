@@ -17,3 +17,7 @@
 Run this command from the published module folder
 
 `npm info`
+
+## Install alpha version
+
+`npm install klisha-test-module2@alpha`
