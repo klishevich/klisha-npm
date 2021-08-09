@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "klisha-test-module": "^1.0.0"
+    "klisha-test-module2": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
